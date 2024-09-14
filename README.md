@@ -1,2 +1,5 @@
 # mpd-termux-dotfiles
-My setup for listening music using termux with mpd
+
+My dotfiles for listening music using termux with mpd
+
+Follow [this](https://github.com/ChinmayMoghe/mpd-ncmpcpp-setup) to setup 
