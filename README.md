@@ -12,4 +12,6 @@ Some useful scripts
 
 notification.sh constantly updates a notificiation with the output of mpc command and has 3 buttons: prev, toggle, next
 
-server.py works together with a [button mapper](https://github.com/salihburock/mpd-termux-dotfiles/blob/main/screenshots/bmpss.jpg) that can send HTTP Post request
+server.py works together with a [button mapper](https://play.google.com/store/apps/details?id=flar2.homebutton&hl=en) that can send HTTP Post request
+
+!(example setup)[https://github.com/salihburock/mpd-termux-dotfiles/blob/main/screenshots/bmpss.jpg]
